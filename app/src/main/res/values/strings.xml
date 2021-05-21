@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jongjis</string>
+    <string name="message_no_internet">There is no internet</string>
+    <string name="there_is_an_error_occurred">there_is_an_error_occurred</string>
+    <string name="no_data_available">No data available</string>
+    <string name="connection_time_out">connection time out</string>
+</resources>

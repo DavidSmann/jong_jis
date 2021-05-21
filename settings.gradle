@@ -1,0 +1,4 @@
+include ':coremodule'
+include ':drequest'
+include ':app'
+rootProject.name = "jongjis"
